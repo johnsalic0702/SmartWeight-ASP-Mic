@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\infrastructure\\reports\\pdfticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:infrastructure\\reports\\pdfticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\infrastructure\\data\\repositories\\sqlprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:infrastructure\\data\\repositories\\sqlprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\controllers\\controlpesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:controllers\\controlpesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\application\\services\\javagroupingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:application\\services\\javagroupingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\application\\services\\controlpesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:application\\services\\controlpesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|c:\\smartweight-asp\\core-pesaje\\core-pesaje\\application\\dtos\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEA61C-D066-42BE-8333-67518C4F01EA}|Core-Pesaje.csproj|solutionrelative:application\\dtos\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfTicketService.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Infrastructure\\Reports\\PdfTicketService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Reports\\PdfTicketService.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Infrastructure\\Reports\\PdfTicketService.cs",
+              "RelativeToolTip": "Infrastructure\\Reports\\PdfTicketService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T22:07:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlProcedureRepository.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Infrastructure\\Data\\Repositories\\SqlProcedureRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositories\\SqlProcedureRepository.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Infrastructure\\Data\\Repositories\\SqlProcedureRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repositories\\SqlProcedureRepository.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:56:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:54:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlPesoController.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Controllers\\ControlPesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControlPesoController.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Controllers\\ControlPesoController.cs",
+              "RelativeToolTip": "Controllers\\ControlPesoController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:51:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaGroupingOrder.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\JavaGroupingOrder.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JavaGroupingOrder.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\JavaGroupingOrder.cs",
+              "RelativeToolTip": "Application\\Services\\JavaGroupingOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:50:55.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TicketService.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\TicketService.cs",
+              "RelativeToolTip": "Application\\Services\\TicketService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:43:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Application\\Services\\PedidoService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:43:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlPesoService.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\ControlPesoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ControlPesoService.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\Services\\ControlPesoService.cs",
+              "RelativeToolTip": "Application\\Services\\ControlPesoService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:32:02.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contracts.cs",
+              "DocumentMoniker": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\DTOs\\Contracts.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Contracts.cs",
+              "ToolTip": "C:\\SmartWeight-ASP\\Core-Pesaje\\Core-Pesaje\\Application\\DTOs\\Contracts.cs",
+              "RelativeToolTip": "Application\\DTOs\\Contracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:31:26.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
